@@ -1,3 +1,3 @@
 # Freshness-Monitoring-System
 
-An IoT based Smart Irrigation System which monitors the soil moisture, temperature,humidity,sunlight and processing the data to turn on/off various appliances and sending data on the cloud
+An IoT based Freshness Monitoring System which monitors vegetables and fruits moisture, temperature,humidity,co2 and o2 contents.
